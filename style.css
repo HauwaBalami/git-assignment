@@ -34,3 +34,8 @@ body{
     width: 61px;
     margin-bottom: -22px;
 }
+.hdb-home{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color:#faf1f1;
+   }
