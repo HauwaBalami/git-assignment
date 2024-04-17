@@ -40,11 +40,11 @@ body{
     background-color:#faf1f1;
    }
    .img{
-    background-image:url(../images\ \(16\).jpeg);
+    background-image:url(./images/images\ \(13\).jpeg);
     display: flex;
     background-size:cover;
     background-position: center;
-    height: 600px;
+    height: 500px;
     background-repeat: no-repeat;
     position:relative;
    }
