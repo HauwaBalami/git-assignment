@@ -48,3 +48,12 @@ body{
     background-repeat: no-repeat;
     position:relative;
    }
+   .vision {
+    justify-content: center;
+    background-color:aqua;
+    display: flex;
+    text-align: center;
+   }
+   .vision li{
+    list-style: none;
+   }
